@@ -1,5 +1,6 @@
 # Campus by StackUp
 
-Challenges: https://platform.campus.dev/learners
+Challenges: https://earn.stackup.dev/
 
 Username: aguito
+
